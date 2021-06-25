@@ -7,7 +7,7 @@ public class Rotator : MonoBehaviour
     [Header("Rotate Propperty")]
     [SerializeField] Vector3 rotateDirection;
     [Range(-20f, 20f)][SerializeField] float rotateSpeed;
-³
+
 
 
     // Start is called before the first frame update
