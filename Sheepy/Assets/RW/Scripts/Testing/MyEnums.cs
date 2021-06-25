@@ -18,7 +18,8 @@ public class MyEnums : MonoBehaviour
     //}
     void Start()
     {
-        StudentsAge = StudentsAge.AlexK;
+        studentsAge = StudentsAge.AlexR;
+        int a = (int)studentsAge;
         print(StudentsAge.AlexK);
         
     }
